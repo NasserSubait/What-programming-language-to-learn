@@ -9,3 +9,6 @@ This is an analysis of stackoverflow survy to try answer these questions:
 		c. Salary 
         
 - What programming language to watch out for depending on these professionals choice ?
+
+Link to the full article: 
+https://medium.com/@nni141/what-programming-language-to-choose-when-seeking-professional-career-7a9b64564055
